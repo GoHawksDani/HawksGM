@@ -1,0 +1,60 @@
+﻿<Page x:Class="HawksGM.Views.StartPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:HawksGM.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1200"
+      Title="StartPage">
+
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="0.1*" />
+            <RowDefinition  Height="0.2*" />
+            <RowDefinition />
+            <RowDefinition  Height="0.3*" />
+            <RowDefinition  Height="0.2*" />
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="1"
+                   Foreground="#71BC5E"
+                   Name="WelcomeTitle"
+                   Text="Welcome to Hawks GM"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Center"
+                   FontSize="25"
+                   FontStretch="Expanded"
+                   FontWeight="Bold"/>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Column="0"
+                       Name="WelcomeStoryText"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       LineHeight="45"
+                       FontSize="25"
+                       Foreground="#71BC5E">
+                Unfortunately John Schneider
+                <LineBreak />
+                just got fired/hired by another team...
+                <LineBreak />
+                Pete Carroll called you to help
+                <LineBreak />
+                rebuild the team!
+            </TextBlock>
+            
+            <Image Name="JohnScheniderPicture"
+                   Grid.Column="1"
+                   Margin="0, 0, 20, 0"
+                   Source="/HawksGM;component/Resources/jonh_schneider.jpg" />
+
+        </Grid>
+
+    </Grid>
+</Page>

@@ -1,0 +1,17 @@
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\bin\Debug\HawksGM.exe.config
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\bin\Debug\HawksGM.exe
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\bin\Debug\HawksGM.pdb
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\MainWindow.g.cs
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\Views\StartPage.g.cs
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\Views\TeamSetupPage.g.cs
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\App.g.cs
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\HawksGM_MarkupCompile.cache
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\HawksGM_MarkupCompile.lref
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\MainWindow.baml
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\Views\StartPage.baml
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\Views\TeamSetupPage.baml
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\HawksGM.g.resources
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\HawksGM.Properties.Resources.resources
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\HawksGM.csproj.GenerateResource.Cache
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\HawksGM.exe
+c:\users\gohawksdani\documents\visual studio 2017\Projects\HawksGM\HawksGM\obj\Debug\HawksGM.pdb
